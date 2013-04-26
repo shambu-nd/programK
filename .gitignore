@@ -1,0 +1,8 @@
+# ignore .out files
+*.out
+
+# ignore all binaries
+*.bin
+
+# ignore bin directory
+bin/*
